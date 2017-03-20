@@ -17,7 +17,9 @@
     "url": "https://github.com/Kikobeats/race-studio/issues"
   },
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "fast-csv": "~2.4.0"
+  },
   "devDependencies": {
     "coveralls": "latest",
     "git-dirty": "latest",
